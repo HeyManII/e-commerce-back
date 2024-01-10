@@ -9,8 +9,9 @@ Jwt authentication and authorization is implemented.
 The demo website is deployed for your view.
 The backend server is hosted on Microsoft azure
 The frontend link is show below
+(applying HTTPS certificate for the backend server, requiring unsafe connection at this moment)
 
-> update later
+> https://e-commerce-front-snowy.vercel.app/
 
 # Demo
 
